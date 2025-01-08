@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+header{
+	text-align:center;
+}
+
 table, tr, td{
 	border:1px solid black;
 	width:100%;
